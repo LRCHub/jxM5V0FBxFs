@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "피카부 Peek-A-Boo",
+  "base_artist": "Red Velvet",
+  "createdAt": "2025-12-07T08:33:13.178679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "피카부 Peek-A-Boo",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/01_피카부_Peek-A-Boo_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "피카부 Peek-A-Boo",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_피카부_Peek-A-Boo_Red_Velvet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "피카부 Peek-A-Boo",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/pl_01_피카부_Peek-A-Boo_Red_Velvet.txt"
+    }
+  ]
+}
